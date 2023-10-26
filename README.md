@@ -9,6 +9,7 @@
 git clone https://github.com/FlyingSheeps/flextailDMD.git
 cd flextailDMD
 ```
+　内部にあるinput.csvに剛性の情報を記入します．また，tailflexDMD.py内部のパラメータを調整します．
 　計算コードを実行します．pythonのコードを実行してください，ここではpythonで実行しますが，環境によってはpyやpython3だったりするかもしれません．
 ```
 python tailflexDMD.py
