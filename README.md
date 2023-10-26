@@ -9,7 +9,6 @@
 git clone https://github.com/FlyingSheeps/flextailDMD.git
 cd flextailDMD
 ```
-　
 　計算コードを実行します．pythonのコードを実行してください，ここではpythonで実行しますが，環境によってはpyやpython3だったりするかもしれません．
 ```
 python tailflexDMD.py
