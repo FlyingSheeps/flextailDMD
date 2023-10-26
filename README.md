@@ -14,3 +14,5 @@ cd flextailDMD
 python tailflexDMD.py
 ```
 　実行した結果はvideoとPhiに出力されます．videoがコマ撮りのたわみ運動，Phiがモードの実部です．
+
+　計算にはmunpy,scipy,control，描画にmatplotlibを使います．適宜pipなどで導入してください．
